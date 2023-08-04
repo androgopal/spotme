@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1008670682892-0g2nrqlidejo92av2hft9cfmue1uu7jt.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://spotme-a7701-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1008670682892</string>
+    <string name="google_api_key" translatable="false">AIzaSyA3yOge1yh_pe1XN0sv6crHDsIKqG4U55M</string>
+    <string name="google_app_id" translatable="false">1:1008670682892:android:a4a36c6fd43e9c6a002329</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA3yOge1yh_pe1XN0sv6crHDsIKqG4U55M</string>
+    <string name="google_storage_bucket" translatable="false">spotme-a7701.appspot.com</string>
+    <string name="project_id" translatable="false">spotme-a7701</string>
+</resources>
