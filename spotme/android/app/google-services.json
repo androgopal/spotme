@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1008670682892",
+    "firebase_url": "https://spotme-a7701-default-rtdb.firebaseio.com",
+    "project_id": "spotme-a7701",
+    "storage_bucket": "spotme-a7701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008670682892:android:a4a36c6fd43e9c6a002329",
+        "android_client_info": {
+          "package_name": "com.Laxmaya.spotme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008670682892-bth2rcshd8mdac5to2mnt39o44ps9uhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Laxmaya.spotme",
+            "certificate_hash": "d9669b90abf3cf0037b0a26d9dde8d619e019830"
+          }
+        },
+        {
+          "client_id": "1008670682892-0g2nrqlidejo92av2hft9cfmue1uu7jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3yOge1yh_pe1XN0sv6crHDsIKqG4U55M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008670682892-0g2nrqlidejo92av2hft9cfmue1uu7jt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008670682892-db1v0jq4gbgktcj6f47ujkp7rpf485ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Laxmaya.spotme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
