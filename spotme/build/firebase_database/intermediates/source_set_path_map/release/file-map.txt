@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.database.firebase_database-jetified-play-services-basement-18.1.0-0 /Users/dino/.gradle/caches/transforms-3/38012eb8442d2d8cf8e665ec432e1cb2/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-annotation-experimental-1.1.0-1 /Users/dino/.gradle/caches/transforms-3/44bb64519f6630296d57bfd04bea1026/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-window-java-1.0.0-beta04-2 /Users/dino/.gradle/caches/transforms-3/63d9d4ede6c389fc1df17e2c8b841dd4/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-window-1.0.0-beta04-3 /Users/dino/.gradle/caches/transforms-3/6dd35649ab9e05df02a37baa9069253f/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.database.firebase_database-core-1.6.0-4 /Users/dino/.gradle/caches/transforms-3/b753b5888b09887a7311b761c5bd2aa2/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-play-services-base-18.1.0-5 /Users/dino/.gradle/caches/transforms-3/f165c27830b23983aaebf6dfccd58278/transformed/jetified-play-services-base-18.1.0/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-firebase-common-20.3.3-6 /Users/dino/.gradle/caches/transforms-3/f6b2dfc528d0e5f2ffc4e615520e7e0f/transformed/jetified-firebase-common-20.3.3/res
+io.flutter.plugins.firebase.database.firebase_database-main-7 /Users/dino/.pub-cache/hosted/pub.dev/firebase_database-10.2.4/android/src/main/res
+io.flutter.plugins.firebase.database.firebase_database-release-8 /Users/dino/.pub-cache/hosted/pub.dev/firebase_database-10.2.4/android/src/release/res
+io.flutter.plugins.firebase.database.firebase_database-packaged_res-9 /Users/dino/Documents/dino/flutterProjects/spotme/build/firebase_core/intermediates/packaged_res/release
+io.flutter.plugins.firebase.database.firebase_database-pngs-10 /Users/dino/Documents/dino/flutterProjects/spotme/build/firebase_database/generated/res/pngs/release
+io.flutter.plugins.firebase.database.firebase_database-resValues-11 /Users/dino/Documents/dino/flutterProjects/spotme/build/firebase_database/generated/res/resValues/release
+io.flutter.plugins.firebase.database.firebase_database-rs-12 /Users/dino/Documents/dino/flutterProjects/spotme/build/firebase_database/generated/res/rs/release
+io.flutter.plugins.firebase.database.firebase_database-mergeReleaseResources-13 /Users/dino/Documents/dino/flutterProjects/spotme/build/firebase_database/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.database.firebase_database-mergeReleaseResources-14 /Users/dino/Documents/dino/flutterProjects/spotme/build/firebase_database/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.database.firebase_database-merged_res-15 /Users/dino/Documents/dino/flutterProjects/spotme/build/firebase_database/intermediates/merged_res/release
